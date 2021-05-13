@@ -1,0 +1,45 @@
+[
+    {
+        "author": "Jason DeParle",
+        "date": "04/08/2021",
+        "headline": "Biden Effort to Combat Hunger Marks ‘a Profound Change’",
+        "article": "WASHINGTON — With more than one in 10 households reporting that they lack enough to eat, the Biden administration is accelerating a vast campaign of hunger relief that will temporarily increase assistance by tens of billions of dollars and set the stage for what officials envision as lasting expansions of aid. The effort to rush more food assistance to more people is notable both for the scale of its ambition and the variety of its legislative and administrative actions. The campaign has increased food stamps by more than $1 billion a month, provided needy children a dollar a day for snacks, expanded a produce allowance for pregnant women and children, and authorized the largest children’s summer feeding program in history. “We haven’t seen an expansion of food assistance of this magnitude since the founding of the modern food stamp program in 1977,” said James P. Ziliak, an economist at the University of Kentucky who studies nutrition programs. “It’s a profound change.”"
+    },
+    {
+        "author": "Miriam Jordan",
+        "date": "03/21/2020",
+        "headline": "A Car Crash in the California Desert: How 13 Died Riding in One S.U.V.",
+        "article": "HOLTVILLE, Calif. — The maroon Ford Expedition was so heavy its wheels spun at first in the soft desert sand as it cleared a breach in the border wall. It then sped down a dirt road as Mexico disappeared in the rearview mirror. Twenty-five people held on inside, many jammed on the floor, others hunched half-standing between them. Near the front was José Eduardo Martinez, 16, who had hitched onto the outlaw ride in hopes of joining his uncle in Utah to work construction. Crammed farther in the back, where the seats had been removed, were Zeferina Mendoza, 33, and her cousin, Rosalia Garcia Gonzalez, 34, who had leads on jobs in California’s strawberry fields. At the wheel was Jairo de Jesus Dueñas, 28, who planned to earn money to buy a car to drive for Uber in Mexico."
+    },
+    {
+        "author": "Ronda Kaysen",
+        "date": "09/30/2019",
+        "headline": "Help! My Apartment Building Is a Movie Set",
+        "article": "You are not going to be able to stop your landlord from renting out the common areas of the building for a movie shoot — a standard lease doesn’t give you that power. You could try to get a rent abatement from your landlord for the days that you are inconvenienced, but you might have more success taking your concerns directly to the production team. The film crew needs your buy-in to get the work done. Not only could you call the New Paltz police dispatcher and report a noise violation, you could also refuse to move your car. “The bottom line is happy neighbors are going to result in a happy shoot,” said Nick Carr, a location manager. If the producers “don’t reach out to anyone, then your film crew is going to have to be shutting down because the neighbor decides it’s time for his trumpet lesson.” So, ask to speak with the location manager. Are you worried about late-night disruptions? If this is a major movie production, it has the money to put you up in a hotel for a few nights. Do you need to get to your car? Someone should arrange for you to have access to it."
+    }
+]
+
+
+// remove 
+{
+    "articles":
+        {
+            "author": "Jason DeParle",
+            "date": "04/08/2021",
+            "headline": "Biden Effort to Combat Hunger Marks ‘a Profound Change’",
+            "text": {
+                "paragraph": [
+                    "HOLTVILLE, Calif. — The maroon Ford Expedition was so heavy its wheels spun at first in the soft desert sand as it cleared a breach in the border wall. It then sped down a dirt road as Mexico disappeared in the rearview mirror. Twenty-five people held on inside, many jammed on the floor, others hunched half-standing between them.",
+                    "Near the front was José Eduardo Martinez, 16, who had hitched onto the outlaw ride in hopes of joining his uncle in Utah to work construction. Crammed farther in the back, where the seats had been removed, were Zeferina Mendoza, 33, and her cousin, Rosalia Garcia Gonzalez, 34, who had leads on jobs in California’s strawberry fields. At the wheel was Jairo de Jesus Dueñas, 28, who planned to earn money to buy a car to drive for Uber in Mexico.",
+                    "They made it 15 miles up a desolate country road in California’s Imperial Valley, 110 miles east of San Diego. Perhaps the driver was distracted, or could not see the stop sign in the dawn light. Perhaps he did not realize how long it would take to stop a vehicle loaded with 25 people. The vehicle lurched into the path of a Peterbilt tractor-trailer rig barreling down State Route 115.",
+                    "Few of the survivors have been able to describe what happened next: the crunch of metal and glass, the bodies flung dozens of feet across the pavement. Twelve people died on the spot, a 13th at a nearby hospital.",
+                    "José, the teenager, remembered none of it. “When I woke up, I was in the hospital,” he said softly, struggling to speak with 10 inches of surgical staples stretched down his stomach and several more around his waist. Two days had passed by the time he regained consciousness.",
+                    "The lonely farm road that on March 2 became the scene of one of the deadliest border-related crashes in recent decades is one of hundreds of illicit corridors into the United States. The people who died there became a tragic portrait of an explosion in migration that has begun overwhelming the U.S. government.",
+                    "Apprehensions of migrants by the authorities along the southwest border in March reached 170,000, the highest point in 15 years, up nearly 70 percent from February, according to preliminary Customs and Border Protection data. Thousands of children and families arriving daily from Central America, driven by violence, natural disasters and the ravages of the coronavirus pandemic, have flooded processing centers and created an urgent humanitarian challenge on the border. Children are being kept in detention longer than the law allows, and most families are now being released into the United States because there is often nowhere to hold them."
+                ]
+            }
+        }
+}
+
+
+

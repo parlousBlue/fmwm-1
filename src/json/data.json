@@ -1,0 +1,78 @@
+{
+   "Experiences": [
+      {
+        "author": "Jason DeParle",
+        "date": "04/08/2021",
+        "headline": "Biden Effort to Combat Hunger Marks ‘a Profound Change’",
+        "text": {
+            "paragraph": [
+                "HOLTVILLE, Calif. — The maroon Ford Expedition was so heavy its wheels spun at first in the soft desert sand as it cleared a breach in the border wall. It then sped down a dirt road as Mexico disappeared in the rearview mirror. Twenty-five people held on inside, many jammed on the floor, others hunched half-standing between them.",
+                "Near the front was José Eduardo Martinez, 16, who had hitched onto the outlaw ride in hopes of joining his uncle in Utah to work construction. Crammed farther in the back, where the seats had been removed, were Zeferina Mendoza, 33, and her cousin, Rosalia Garcia Gonzalez, 34, who had leads on jobs in California’s strawberry fields. At the wheel was Jairo de Jesus Dueñas, 28, who planned to earn money to buy a car to drive for Uber in Mexico.",
+                "They made it 15 miles up a desolate country road in California’s Imperial Valley, 110 miles east of San Diego. Perhaps the driver was distracted, or could not see the stop sign in the dawn light. Perhaps he did not realize how long it would take to stop a vehicle loaded with 25 people. The vehicle lurched into the path of a Peterbilt tractor-trailer rig barreling down State Route 115.",
+                "Few of the survivors have been able to describe what happened next: the crunch of metal and glass, the bodies flung dozens of feet across the pavement. Twelve people died on the spot, a 13th at a nearby hospital.",
+                "José, the teenager, remembered none of it. “When I woke up, I was in the hospital,” he said softly, struggling to speak with 10 inches of surgical staples stretched down his stomach and several more around his waist. Two days had passed by the time he regained consciousness.",
+                "The lonely farm road that on March 2 became the scene of one of the deadliest border-related crashes in recent decades is one of hundreds of illicit corridors into the United States. The people who died there became a tragic portrait of an explosion in migration that has begun overwhelming the U.S. government.",
+                "Apprehensions of migrants by the authorities along the southwest border in March reached 170,000, the highest point in 15 years, up nearly 70 percent from February, according to preliminary Customs and Border Protection data. Thousands of children and families arriving daily from Central America, driven by violence, natural disasters and the ravages of the coronavirus pandemic, have flooded processing centers and created an urgent humanitarian challenge on the border. Children are being kept in detention longer than the law allows, and most families are now being released into the United States because there is often nowhere to hold them."
+            ]
+        },
+        "companyName": "Demo1 Technologies",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+        "url": "https://www.google.com/",
+        "roles": [
+          {
+            "title": "Full Stack Developer",
+            "description": "Built and updated various Chrome Extensions.",
+            "startDate": "2017-01-01",
+            "endDate": "2017-05-01",
+            "location": "New York, USA"
+          }
+        ]
+      }
+    ],
+    "Skills": [
+      {
+        "Area": "Programming Language",
+        "SkillSet": [
+          {
+            "Name": "Java",
+            "Hot": true
+          },
+          {
+            "Name": "C#",
+            "Hot": false
+          },
+          {
+            "Name": "Python",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Web-Based Application Development",
+        "SkillSet": [
+          {
+            "Name": "JavaScript (ES5, ES6)",
+            "Hot": true
+          },
+          {
+            "Name": "TypeScript",
+            "Hot": false
+          },
+          {
+            "Name": "HTML5",
+            "Hot": true
+          },
+          {
+            "Name": "CSS (SCSS/SASS)",
+            "Hot": true
+          },
+          {
+            "Name": "React",
+            "Hot": true
+          }
+        ]
+      }      
+    ]   
+}
+    
+    
